@@ -1,0 +1,14 @@
+iw=3.2-1
+devio=1.2-1build1
+wireless-regdb=2011.04.28-1ubuntu3
+wireless-crda=1.16
+u-boot-tools=2011.09-2
+libnl-3-200=3.2.3-2ubuntu2
+linux-firmware=1.79
+uboot-mkimage=2011.09-2
+flash-kernel=2.28ubuntu42linaro2
+crda=1.1.2-1ubuntu1
+libnl-genl-3-200=3.2.3-2ubuntu2
+u-boot-linaro-omap3-overo=2012.05.3-ubuntu1
+linux-image-3.1.1-15-linaro-omap=3.1.1-15.15
+linux-headers-3.1.1-15=3.1.1-15.15
