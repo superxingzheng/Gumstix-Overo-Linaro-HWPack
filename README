@@ -1,1 +1,4 @@
 A Linaro hardware pack for the Gumstix Overo series. Please see manifest for detail.
+
+List of known issues (not exhaustive):
+ - Seg fault on shutdown
