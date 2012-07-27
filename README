@@ -3,7 +3,7 @@ A Linaro hardware pack for the Gumstix Overo series. Please see manifest for det
 List of known issues (not exhaustive):
  - Seg fault on shutdown (only on 20120709 hwpack)
  - Stopping cold plug devices [fail] on boot
- - ureadahead dies on boot
+ - ureadahead dies on boot (no pack file)
    [    8.300415] init: ureadahead main process (809) terminated with status 5
  - Minor annoyance as below 
    # [  721.648010] INFO: task crda:1123 blocked for more than 120 seconds.
